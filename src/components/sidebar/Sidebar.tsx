@@ -15,7 +15,7 @@ import {
 } from '@chakra-ui/react';
 import Content from 'components/sidebar/components/Content';
 import { renderThumb, renderTrack, renderView } from 'components/scrollbar/Scrollbar';
-import { Scrollbars } from 'react-custom-scrollbars-2';
+import { Scrollbars } from 'react-custom-scrollbars-4';
 
 // Assets
 import { IoMenuOutline } from 'react-icons/io5';
